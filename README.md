@@ -1,5 +1,5 @@
 ## Hi there, welcome to my profile 👋
-I call myself a reflective practitioner: I love thinking about good coding practices. also love: dev tool building, network programming, and IaC
+I call myself a reflective practitioner: I love thinking and writing about good coding practices. also love: dev tool building, network programming, and IaC
 
 - 🔭 I’m currently working on an agentic tool which will help me better reflect on my software development practice.
 - 🌱 I’m currently learning Kubernetes, Pub/Sub architecture, and Cryptography.
