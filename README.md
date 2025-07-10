@@ -1,8 +1,8 @@
 ## Hi there, welcome to my profile 👋
 I call myself a reflective practitioner: I love thinking and writing about good coding practices. also love: dev tool building, network programming, and IaC
 
-- 🔭 I’m currently working on an agentic tool which will help me better reflect on my software development practice.
-- 🌱 I’m currently learning Kubernetes, Pub/Sub architecture, and Cryptography.
+- 🔭 I’m currently working on an agentic tool which will help me better reflect on my software development practice and (maybe) make the agent better understand me.
+- 🌱 I’m currently learning Kubernetes (using MiniKube), Pub/Sub architecture, and Cryptography.
 <!--
 **per1Peteia/per1Peteia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
